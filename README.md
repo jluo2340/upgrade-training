@@ -1,2 +1,2 @@
 # upgrade-training
-Name, FIRST, SECOND, THIRD, FOURTH
+Name, First, Second, Third Fourth
